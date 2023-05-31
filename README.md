@@ -1,4 +1,4 @@
-# 100-Days-Of-Projects-in-HTML,-CSS-and-JavaScript
+# 100-Days-Of-Projects-in-HTML-CSS-and-JavaScript
 
 > **Showcase Website: [100 Days Of Projects](https://rogue-wild.github.io/100daysOfProjects/)**
 
@@ -34,4 +34,4 @@
  
  
  ---
- [Back to Top](#100-Days-Of-Projects-in-HTML,-CSS-and-JavaScript)
+ [Back to Top](#100-Days-Of-Projects-in-HTML-CSS-and-JavaScript)
