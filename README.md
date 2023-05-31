@@ -1,6 +1,6 @@
 # 100 Days Of Projects in HTML, CSS and JavaScript
 
->Showcase Website: https://rogue-wild.github.io/WebDev2/
+>Showcase Website: [100 Days Of Projects](https://rogue-wild.github.io/100daysOfProjects/)
 
 | Project Name             | Project Link                                                                             |
 | -----------              | -----------                                                                      |
